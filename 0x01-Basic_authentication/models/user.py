@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-""" User module
+""" Code for user profiling module
 """
 import hashlib
 from models.base import Base

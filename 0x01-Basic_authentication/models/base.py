@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-""" Base module
+""" Base module on the date and time
 """
 from datetime import datetime
 from typing import TypeVar, List, Iterable
